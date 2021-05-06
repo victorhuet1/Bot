@@ -6,7 +6,7 @@ pkg install git
 pkg install ffmpeg
 pkg instal wget
 pkg install nodejs
-git clone https://github.com/Meliodas-rai/Bot
+git clone https://github.com/victorhuet1/Bot
 cd Bot
 bash install.sh
 npm start
