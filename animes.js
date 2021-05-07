@@ -1,7 +1,7 @@
 const animes = (prefix, pushname2) => {
 
 	return `
- 💪🏻𝙰𝚀𝚄𝙸 𝙴 𝙾 𝚇𝙰𝙽𝙳Ã𝙾 𝙿𝙾𝚁𝚁𝙰💪🏻
+ 💪🏻SUPER BOT💪🏻
 
  ╭╮╮╱▔▔▔▔╲╭╭╮ 
  ╰╲╲▏▂╲╱▂▕╱╱╯
